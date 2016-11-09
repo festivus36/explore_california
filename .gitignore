@@ -1,5 +1,5 @@
 
-._*/html
+._*.html
 tempfile.txt
 tempfile2.txt
 .DS_store
